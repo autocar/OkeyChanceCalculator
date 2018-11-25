@@ -1,0 +1,5 @@
+/Users/yakupaydin/Projects/OkeyGame/OkeyGame/bin/Debug/OkeyGame.exe
+/Users/yakupaydin/Projects/OkeyGame/OkeyGame/bin/Debug/OkeyGame.pdb
+/Users/yakupaydin/Projects/OkeyGame/OkeyGame/obj/x86/Debug/OkeyGame.csproj.CoreCompileInputs.cache
+/Users/yakupaydin/Projects/OkeyGame/OkeyGame/obj/x86/Debug/OkeyGame.exe
+/Users/yakupaydin/Projects/OkeyGame/OkeyGame/obj/x86/Debug/OkeyGame.pdb

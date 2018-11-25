@@ -1,0 +1,3 @@
+/Users/yakupaydin/Projects/OkeyGame/OkeyGame/bin/Release/OkeyGame.exe
+/Users/yakupaydin/Projects/OkeyGame/OkeyGame/obj/x86/Release/OkeyGame.csproj.CoreCompileInputs.cache
+/Users/yakupaydin/Projects/OkeyGame/OkeyGame/obj/x86/Release/OkeyGame.exe
